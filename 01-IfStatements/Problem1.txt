@@ -1,0 +1,6 @@
+## Problem 1
+Given a user's grade (in %) determine what their letter grade will be
+
+# Task
+- The user will input a marks
+- Program should determine the users letter grade based on the percentage and output
